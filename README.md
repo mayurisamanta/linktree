@@ -1,1 +1,1 @@
-# mayurisamanta-linktree.github.io
+# mayurisamanta-linktree
