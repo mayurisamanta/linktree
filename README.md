@@ -14,7 +14,23 @@ In today's digital age, staying connected is essential. This Linktree page serve
 
 This Linktree page was built using the following technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github)](https://skillicons.dev/)
+<!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github)](https://skillicons.dev/) -->
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50" width="50" style="margin-right: 20px;"/>
+</a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50" width="50" style="margin-right: 20px;"/>
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50" width="50" style="margin-right: 20px;"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50" width="50" style="margin-right: 20px;"/>
+</a> 
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="50" width="50" style="margin-right: 20px;"/>
+</a>
 
 # How to Navigate
 
