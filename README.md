@@ -1,5 +1,7 @@
 # MayuriSamanta-linktree
 
+![Lines count](https://img.shields.io/endpoint?url=https%3A%2F%2Fghloc.vercel.app%2Fapi%2Fmayurisamanta%2Flinktree%2Fbadge&color=hex)
+
 Welcome to my Linktree page! This is a centralized hub where you can find all my important links in one place.
 
 <img width="900px" loading="lazy" src="https://github.com/mayurisamanta/linktree/blob/main/Assets/mayurisamanta-linktree.png?raw=true" alt="Image Description">
