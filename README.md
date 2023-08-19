@@ -52,7 +52,7 @@ If you have any questions or want to get in touch, feel free to send me a messag
 
 # License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/mayurisamanta/linktree/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/mayurisamanta/linktree/blob/main/LICENSE) file for details.
 
 ---
 
